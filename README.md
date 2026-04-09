@@ -34,8 +34,9 @@
   <!-- Menggunakan layanan Streak Stats yang servernya lebih stabil (demolab) -->
   <img src="https://streak-stats.demolab.com/?user=Fuadi-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br><br>
-  <!-- Menggunakan Vercel mirror yang lebih sepi untuk top language -->
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Fuadi-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <div align="center">
+  <!-- Menggunakan layanan Streak Stats yang servernya lebih stabil (demolab) -->
+  <img src="https://streak-stats.demolab.com/?user=Fuadi-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
