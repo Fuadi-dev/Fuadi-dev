@@ -22,7 +22,6 @@
 <div align="center">
   <br />
   <a href="https://skillicons.dev">
-    <!-- Icon yang ditambahkan: react, nodejs, postgres, gitlab. Disusun 6 per baris -->
     <img src="https://skillicons.dev/icons?i=php,laravel,python,go,js,vue,react,nodejs,html,css,dart,mysql,postgres,git,github,gitlab,vscode,postman&perline=6" alt="Tech Stack" />
   </a>
 </div>
@@ -32,10 +31,7 @@
 ### 📊 GitHub Stats & Streak
 
 <div align="center">
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Fuadi-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-  <!-- GitHub Streak Stats -->
+  <!-- GitHub Streak Stats (Server Demolab - Sangat Stabil) -->
   <img src="https://streak-stats.demolab.com/?user=Fuadi-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
