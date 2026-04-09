@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently developing exciting projects including **Sistem Aplikasi Kasir**, **Toko Online**, and an **OCR API**.
 - 🌱 I’m actively learning and exploring advanced concepts in **Golang** and **Python**.
-- 💼 I have solid experience building scalable applications using **Laravel**, **Vue.js**, **React.js**, **Node.js**, and **Dart**.
+- 💼 I have solid experience building scalable applications using **Laravel**, **Vue.js**, **React.js**, **Node.js**, **Flutter**, and **Dart**.
 - 💬 Ask me about **Web Development, API Integration, PHP, and modern JS frameworks**.
 - 📫 How to reach me: **[Tambahkan Email/LinkedIn Anda di sini]**
 
@@ -22,7 +22,8 @@
 <div align="center">
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,python,go,js,vue,react,nodejs,html,css,dart,mysql,postgres,git,github,gitlab,vscode,postman&perline=6" alt="Tech Stack" />
+    <!-- Menambahkan flutter, tailwind, bootstrap dan mengubah perline=7 agar tersusun rapi 3 baris x 7 -->
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,go,js,vue,react,nodejs,html,css,tailwind,bootstrap,dart,flutter,mysql,postgres,git,github,gitlab,vscode,postman&perline=7" alt="Tech Stack" />
   </a>
 </div>
 
