@@ -47,7 +47,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fuadi-dev/Fuadi-dev/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
+<!--
 <div align="center">
   <br>
   <img src="https://profile-counter.glitch.me/Fuadi-dev/count.svg" alt="Visitor Count" />
