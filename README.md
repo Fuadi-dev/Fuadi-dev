@@ -13,7 +13,6 @@
 - 🌱 I’m actively learning and exploring advanced concepts in **Golang** and **Python**.
 - 💼 I have solid experience building scalable applications using **Laravel**, **Vue.js**, **React.js**, **Node.js**, **Flutter**, and **Dart**.
 - 💬 Ask me about **Web Development, API Integration, PHP, and modern JS frameworks**.
-- 📫 How to reach me: **[Tambahkan Email/LinkedIn Anda di sini]**
 
 ---
 
